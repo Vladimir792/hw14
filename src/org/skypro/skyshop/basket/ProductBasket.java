@@ -23,7 +23,6 @@ public class ProductBasket {
         }
         return total;
     }
-
     // Метод печати содержимого корзины
     public void printProducts() {
         if (size == 0) {
